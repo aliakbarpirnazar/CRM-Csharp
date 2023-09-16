@@ -1,0 +1,12 @@
+E:\C#\Project\CRM\BE\bin\Debug\BE.dll
+E:\C#\Project\CRM\BE\bin\Debug\BE.pdb
+E:\C#\Project\CRM\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\C#\Project\CRM\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\C#\Project\CRM\BE\obj\Debug\BE.dll
+E:\C#\Project\CRM\BE\obj\Debug\BE.pdb
+D:\Project\Project C#\C#\Project\CRM\BE\bin\Debug\BE.dll
+D:\Project\Project C#\C#\Project\CRM\BE\bin\Debug\BE.pdb
+D:\Project\Project C#\C#\Project\CRM\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Project\Project C#\C#\Project\CRM\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\C#\Project\CRM\BE\obj\Debug\BE.dll
+D:\Project\Project C#\C#\Project\CRM\BE\obj\Debug\BE.pdb

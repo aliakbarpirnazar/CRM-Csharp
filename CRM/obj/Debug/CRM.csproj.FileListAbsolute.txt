@@ -1,0 +1,109 @@
+E:\C#\Project\CRM\CRM\bin\Debug\CRM.exe.config
+E:\C#\Project\CRM\CRM\bin\Debug\CRM.exe
+E:\C#\Project\CRM\CRM\bin\Debug\CRM.pdb
+E:\C#\Project\CRM\CRM\bin\Debug\EntityFramework.dll
+E:\C#\Project\CRM\CRM\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Project\CRM\CRM\bin\Debug\EntityFramework.xml
+E:\C#\Project\CRM\CRM\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Project\CRM\CRM\obj\Debug\MainWindow.g.cs
+E:\C#\Project\CRM\CRM\obj\Debug\App.g.cs
+E:\C#\Project\CRM\CRM\obj\Debug\CRM_MarkupCompile.cache
+E:\C#\Project\CRM\CRM\obj\Debug\CRM_MarkupCompile.lref
+E:\C#\Project\CRM\CRM\obj\Debug\MainWindow.baml
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.g.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.exe
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.pdb
+E:\C#\Project\CRM\CRM\bin\Debug\HandyControl.dll
+E:\C#\Project\CRM\CRM\bin\Debug\HandyControl.xml
+E:\C#\Project\CRM\CRM\obj\Debug\App.baml
+E:\C#\Project\CRM\CRM\bin\Debug\HandyControl.pdb
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.SuggestedBindingRedirects.cache
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.CopyComplete
+E:\C#\Project\CRM\CRM\obj\Debug\ClockMainWindow.g.cs
+E:\C#\Project\CRM\CRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\Project\CRM\CRM\obj\Debug\ClockMainWindow.baml
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.ActivityForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.CustomersForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.InvoiceForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.ProductForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.RemindersForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.SMSPanelForm.resources
+E:\C#\Project\CRM\CRM\bin\Debug\DevComponents.DotNetBar2.xml
+E:\C#\Project\CRM\CRM\bin\Debug\BE.dll
+E:\C#\Project\CRM\CRM\bin\Debug\BLL.dll
+E:\C#\Project\CRM\CRM\bin\Debug\BE.pdb
+E:\C#\Project\CRM\CRM\bin\Debug\BLL.pdb
+E:\C#\Project\CRM\CRM\bin\Debug\DAL.dll
+E:\C#\Project\CRM\CRM\bin\Debug\DAL.pdb
+E:\C#\Project\CRM\CRM\bin\Debug\DAL.dll.config
+E:\C#\Project\CRM\CRM\bin\Debug\DevComponents.DotNetBar2.dll
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.UserForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.MyMsgBox.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.SettingForm.resources
+E:\C#\Project\CRM\CRM\obj\Debug\CRM.ActivityInfoForm.resources
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Report.dll
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Report.Win.dll
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Base.dll
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Data.dll
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Controls.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\CRM.exe.config
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\CRM.exe
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\CRM.pdb
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\BE.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\BLL.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\EntityFramework.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\HandyControl.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Report.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\DAL.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Base.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Data.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\Stimulsoft.Controls.dll
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\BE.pdb
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\BLL.pdb
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\EntityFramework.xml
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\HandyControl.pdb
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\HandyControl.xml
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\DAL.pdb
+D:\Project\Project C#\C#\Project\CRM\CRM\bin\Debug\DAL.dll.config
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.SuggestedBindingRedirects.cache
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\ClockMainWindow.g.cs
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\MainWindow.g.cs
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\App.g.cs
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM_MarkupCompile.cache
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM_MarkupCompile.lref
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\App.baml
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\ClockMainWindow.baml
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\MainWindow.baml
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.g.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.ActivityForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.ActivityInfoForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.CustomersForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.InvoiceForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.LoginForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.LoginUC.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.MyMsgBox.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.ProductForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.RegisterAdmin.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.RemindersForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.SettingForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.SMSPanelForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.UserForm.resources
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.exe
+D:\Project\Project C#\C#\Project\CRM\CRM\obj\Debug\CRM.pdb

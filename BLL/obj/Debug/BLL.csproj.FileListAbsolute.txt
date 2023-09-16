@@ -1,0 +1,28 @@
+E:\C#\Project\CRM\BLL\bin\Debug\BLL.dll
+E:\C#\Project\CRM\BLL\bin\Debug\BLL.pdb
+E:\C#\Project\CRM\BLL\bin\Debug\BE.dll
+E:\C#\Project\CRM\BLL\bin\Debug\DAL.dll
+E:\C#\Project\CRM\BLL\bin\Debug\EntityFramework.dll
+E:\C#\Project\CRM\BLL\bin\Debug\BE.pdb
+E:\C#\Project\CRM\BLL\bin\Debug\DAL.pdb
+E:\C#\Project\CRM\BLL\bin\Debug\DAL.dll.config
+E:\C#\Project\CRM\BLL\bin\Debug\EntityFramework.xml
+E:\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\C#\Project\CRM\BLL\obj\Debug\BLL.dll
+E:\C#\Project\CRM\BLL\obj\Debug\BLL.pdb
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\BLL.dll
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\BLL.pdb
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\BE.dll
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\DAL.dll
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\EntityFramework.dll
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\BE.pdb
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\DAL.pdb
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\DAL.dll.config
+D:\Project\Project C#\C#\Project\CRM\BLL\bin\Debug\EntityFramework.xml
+D:\Project\Project C#\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project\Project C#\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\C#\Project\CRM\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project\Project C#\C#\Project\CRM\BLL\obj\Debug\BLL.dll
+D:\Project\Project C#\C#\Project\CRM\BLL\obj\Debug\BLL.pdb

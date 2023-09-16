@@ -1,0 +1,32 @@
+E:\C#\Project\CRM\DAL\bin\Debug\DAL.dll.config
+E:\C#\Project\CRM\DAL\bin\Debug\DAL.dll
+E:\C#\Project\CRM\DAL\bin\Debug\DAL.pdb
+E:\C#\Project\CRM\DAL\bin\Debug\BE.dll
+E:\C#\Project\CRM\DAL\bin\Debug\EntityFramework.dll
+E:\C#\Project\CRM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\Project\CRM\DAL\bin\Debug\BE.pdb
+E:\C#\Project\CRM\DAL\bin\Debug\EntityFramework.xml
+E:\C#\Project\CRM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.dll
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.pdb
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+E:\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\DAL.dll.config
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\DAL.dll
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\DAL.pdb
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\BE.dll
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\EntityFramework.dll
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\BE.pdb
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\EntityFramework.xml
+D:\Project\Project C#\C#\Project\CRM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.dll
+D:\Project\Project C#\C#\Project\CRM\DAL\obj\Debug\DAL.pdb
